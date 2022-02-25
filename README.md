@@ -1,3 +1,3 @@
 # A Simple Password Generator
 
-This small hobby project I made on a whim in a few minutes randomly generates a 20-character-long hexadecimal password. Will it be easy to remember? Hell no! Is it secure? It's probably better than your password being "password" but I used Math.random() so it's likely not cryptographically sound.
+This small hobby project I made on a whim in a few minutes randomly generates a 20-character-long password. Initially passwords were only made from hexadecimal characters (1-F, because it's cool) but I expanded it to include a bunch of symbols for extra security. Will it be easy to remember? Hell no! Is it secure? It's probably better than your password being "password" but I used Math.random() so it's likely not cryptographically sound.
